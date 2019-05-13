@@ -5,7 +5,7 @@
  */
 
 const increment = () => {
-  // Fill in this function
+  return { type: 'INCREMENT' }
 }
 
 /**

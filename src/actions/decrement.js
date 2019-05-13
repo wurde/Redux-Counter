@@ -5,7 +5,7 @@
  */
 
 const decrement = () => {
-  // Fill in this function
+  return { type: 'DECREMENT' }
 }
 
 /**
